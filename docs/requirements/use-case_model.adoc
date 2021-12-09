@@ -11,8 +11,17 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+* *UC01*: Akteur: Kunde; Ziel: "Bestellung aufgeben"
+* *UC02*: Akteur: Kunde; Ziel: "Bestellung bezahlen"
+* *UC03*: Akteur: Kunde; Ziel: "Bestellung erhalten"
+* *UC04*: Akteur: Mitarbeiter_Zubereitung; Ziel: "Bestellung entgegennehmen"
+* *UC05*: Akteur: Mitarbeiter_Zubereitung; Ziel: "Bestellung zubereiten (Cocktail mixen)"
+* *UC06*: Akteur: Mitarbeiter_Zubereitung; Ziel: "Bestellung verpacken"
+* *UC07*: Akteur: Mitarbeiter_Lieferung; Ziel: "Bestellung ausliefern"
+* *UC08*: Akteur: Mitarbeiter_Lieferung/Zahlungsdienstleister; Ziel: "Bestellung erhalten"
+* *UC09*: Akteur: Barbetreiber; Ziel: "Zutaten einkaufen"
+* *UC10*: Akteur: Barbetreiber; Ziel: "Mitarbeiter bezahlen"
+* *UC11*: Akteur: Barbetreiber; Ziel: "Unterhaltungskosten begleichen"
 
 
 == Use Case Diagramm
